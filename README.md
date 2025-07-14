@@ -31,11 +31,38 @@
 
 ### 🧠 Languages I Use
 
-![HTML](https://img.shields.io/badge/HTML-40%25-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-25%25-blue?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-15%25-grey?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-10%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-10%25-red?style=for-the-badge&logo=java&logoColor=white)
+<h1 align="center">Hi 👋, I'm Paras Chandravanshi</h1>
+<p align="center">A student and developer from India</p>
+
+---
+
+### 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiet1paras&layout=compact&theme=tokyonight&langs_count=8)
+
+---
+
+### 🔧 GitHub Stats
+
+![Paras's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiet1paras&show_icons=true&theme=tokyonight)
+
+---
+
+### 🛠️ Languages and Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+### 📫 Connect with me
+
+- GitHub: [github.com/kiet1paras](https://github.com/kiet1paras)
+
 
 
 
