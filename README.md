@@ -41,11 +41,9 @@
 
 ---
 
-### 🔧 GitHub Stats
 
-![Paras's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiet1paras&show_icons=true&theme=tokyonight)
 
----
+
 
 
 ---
