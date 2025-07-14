@@ -29,6 +29,14 @@
 - 💬 Ask me about Life
 - ⚡ Fun fact: Nothing is Permanent
 
+### 🧠 Languages I Use
+
+![HTML](https://img.shields.io/badge/HTML-40%25-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-25%25-blue?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-15%25-grey?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-10%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-10%25-red?style=for-the-badge&logo=java&logoColor=white)
+
 
 
 
