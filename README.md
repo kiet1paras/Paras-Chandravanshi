@@ -1,5 +1,4 @@
 # Paras-Chandravanshi
-This is to customize my GitHub page.
 # Hi there! My Name is Paras Chandravanshi
 
 "I'm a student and programmer from India who enjoys building and learning."
